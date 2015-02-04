@@ -3,10 +3,11 @@
 
 ### Other Emphasis Types (tertiary header)
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
+*single asterisks*  and _single understore_
+
+**double asterisks** and __double underscores__
+
+### Lists
 
 *Item Red
 *Item Blue
