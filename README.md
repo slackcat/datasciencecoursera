@@ -2,11 +2,11 @@
 ## Repository for Coursera Data Scientists Toolbox
 
 ### Other Emphasis Types (tertiary header)
-    *single asterisks*
-    _single underscores_
-    **double asterisks**
-    __double underscores__
 
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
 
 *Item Red
 *Item Blue
